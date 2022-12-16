@@ -1,0 +1,47 @@
+#main-header {
+    margin: 20px;
+    background-color: rgba(189, 252, 237, 0.5);
+}
+
+#project-title {
+    font-family: monospace;
+    font-weight: 300;
+    text-align: center; 
+    padding-top: 20px;
+}
+
+#page-title {
+    font-family: monospace;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 6px; 
+    border-bottom: 1px solid rgb(170, 170, 170, 0.25); 
+    margin: 25px; 
+}
+
+#main-section {
+    margin: 25px; 
+}
+
+#article-list {
+    list-style-type: circle; 
+    font-family: monospace; 
+    font-weight: 300; 
+}
+
+#show-article {
+    margin: 25px; 
+}
+
+#show-title {
+    font-family: monospace;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 6px; 
+    border-bottom: 1px solid rgb(170, 170, 170, 0.25); 
+    margin: 25px; 
+}
+
+#show-body {
+    margin: 30px; 
+}
